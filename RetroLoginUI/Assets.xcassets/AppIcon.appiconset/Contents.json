@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Ph03nyx-Super-Mario-Retro-Mario-2.256.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
